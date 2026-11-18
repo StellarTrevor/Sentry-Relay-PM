@@ -1,0 +1,69 @@
+{
+ "format": "sentry-drone-index",
+ "version": 1,
+ "level": "pm",
+ "publishedAt": "2026-11-18T13:22:52.578Z",
+ "by": "Sentry desktop",
+ "projects": [
+  {
+   "id": "7db1ce7f-2521-4a25-bee7-a70268635fc4",
+   "name": "Brookdale Condominiums",
+   "code": "",
+   "updated": "2026-11-17T16:16:36.822Z",
+   "field": "off",
+   "removeAt": "",
+   "hash": "e25314ea88401496e2b458100b1641ab1a6db31f386cb97541ebc631142dd409",
+   "file": "projects/7db1ce7f-2521-4a25-bee7-a70268635fc4.json"
+  },
+  {
+   "id": "6640d05f-e8f5-4839-90fc-6cb7d10fbaf0",
+   "name": "Quarry Village West",
+   "code": "PJ2603-0476",
+   "updated": "2026-11-17T16:17:17.899Z",
+   "field": "off",
+   "removeAt": "",
+   "hash": "8deb79d21a13199a0785a4c8b44e040db1885a1bb9cb414903991f838efd6e83",
+   "file": "projects/6640d05f-e8f5-4839-90fc-6cb7d10fbaf0.json"
+  },
+  {
+   "id": "d35e4443-6ea6-4b82-85bf-e2f1998f92e4",
+   "name": "Northville Downs",
+   "code": "PJ2402-0308",
+   "updated": "2026-11-17T19:11:08.758Z",
+   "field": "off",
+   "removeAt": "",
+   "hash": "ce217cd729a676ff2a7cb8c26683c3237b1d422ef67fe091da5a50c7351bbcec",
+   "file": "projects/d35e4443-6ea6-4b82-85bf-e2f1998f92e4.json"
+  },
+  {
+   "id": "3dd217e7-fb66-4955-a671-f502f7db9509",
+   "name": "Tower On Grand",
+   "code": "",
+   "updated": "2026-11-05T19:12:44.389Z",
+   "field": "off",
+   "removeAt": "",
+   "hash": "33b05d3b4a395b5170e487442d3d129aacc2c7abe1b2eb6eda2e9f8c1e2bd448",
+   "file": "projects/3dd217e7-fb66-4955-a671-f502f7db9509.json"
+  },
+  {
+   "id": "991bd960-7511-4513-b35a-7e619b207bc7",
+   "name": "Ramblewood Manor",
+   "code": "",
+   "updated": "2026-11-13T16:39:19.161Z",
+   "field": "off",
+   "removeAt": "",
+   "hash": "ae4dbe20f2bcf2982b57cdeba4c79574dd5acf83d397afe4cf471fad5dd499f6",
+   "file": "projects/991bd960-7511-4513-b35a-7e619b207bc7.json"
+  },
+  {
+   "id": "f01df92b-9982-43e3-b5be-48019ef691a5",
+   "name": "One Hundred West",
+   "code": "OHW",
+   "updated": "2026-11-17T15:06:00.667Z",
+   "field": "off",
+   "removeAt": "",
+   "hash": "0e1d6274da5dedd9c3c7fd9dc422ec4e0251fd9b72f7632368df98edfcadfb03",
+   "file": "projects/f01df92b-9982-43e3-b5be-48019ef691a5.json"
+  }
+ ]
+}
