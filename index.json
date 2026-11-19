@@ -2,7 +2,7 @@
  "format": "sentry-drone-index",
  "version": 1,
  "level": "pm",
- "publishedAt": "2026-11-19T20:43:45.664Z",
+ "publishedAt": "2026-11-19T20:54:50.489Z",
  "by": "Sentry desktop",
  "projects": [
   {
@@ -62,7 +62,7 @@
    "updated": "2026-11-19T16:53:09.133Z",
    "field": "off",
    "removeAt": "",
-   "hash": "8f351f8d29a9e2d0001838583fc5692731c727bd43cbf315832b80607fd5d90a",
+   "hash": "fbffe9dfba2c5e15e9bd07a6100ee5c6b87e9dab3978a1b06d0057b4d9c56f66",
    "file": "projects/f01df92b-9982-43e3-b5be-48019ef691a5.json"
   }
  ],
@@ -111,6 +111,7 @@
   "3953a42e1ad0afc89575.svg",
   "39e43247db7483eabbf6.svg",
   "3c274dfa196dfb0581dd.svg",
+  "3c99f474d62d2594855e.jpg",
   "3e1510adeece3c9bb9b2.svg",
   "3f4f66bd5c7ab990ebe0.svg",
   "3f7b22927ae818d14f6c.svg",
@@ -148,7 +149,6 @@
   "647912b0276c941c9052.svg",
   "67f32d3b637529aceb93.svg",
   "6982a0e26b7ba9d0b734.svg",
-  "6a15c5009a5f1b8c29c8.jpg",
   "6acd558a735b2d7118b4.svg",
   "6bd94863a4ce4de5a8e8.svg",
   "6cc0039a7b0a26f25b1e.svg",
