@@ -2,7 +2,7 @@
  "format": "sentry-drone-index",
  "version": 1,
  "level": "pm",
- "publishedAt": "2026-11-19T16:59:16.030Z",
+ "publishedAt": "2026-11-19T17:49:15.201Z",
  "by": "Sentry desktop",
  "projects": [
   {
@@ -29,10 +29,10 @@
    "id": "d35e4443-6ea6-4b82-85bf-e2f1998f92e4",
    "name": "Northville Downs",
    "code": "PJ2402-0308",
-   "updated": "2026-11-19T16:39:52.567Z",
+   "updated": "2026-11-19T17:48:51.998Z",
    "field": "off",
    "removeAt": "",
-   "hash": "d0911f6ff4712743d832145241846e2d71dc4082c2873b865ef7001daea04b51",
+   "hash": "2b570ee62b5038a060cb6a915341ad10031daf50c9910ebef672542ee8a64d18",
    "file": "projects/d35e4443-6ea6-4b82-85bf-e2f1998f92e4.json"
   },
   {
@@ -122,7 +122,6 @@
   "464399677ad8f91bd5ee.svg",
   "4a8cde3459da34e16dcd.svg",
   "4a9b766a67ac9e55d2ad.svg",
-  "4b216a0a63ef56f37468.svg",
   "4b661d08e8c6dc347d5a.svg",
   "4d33e0121177b8c51b2e.svg",
   "4d7f57cfde5be1e23458.svg",
@@ -216,6 +215,7 @@
   "bb146426a061baae1b66.svg",
   "bb6569e55dee2e9ccc73.svg",
   "bcb9b9aa4dabe2f424ff.svg",
+  "bd26f8ced2fb8a3b7a89.svg",
   "c29a8aeeb5529717b73f.svg",
   "c32fcf5e0e2964bd12aa.svg",
   "c56c18427f48c75600d6.svg",
