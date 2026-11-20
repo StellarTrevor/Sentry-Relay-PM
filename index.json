@@ -2,7 +2,7 @@
  "format": "sentry-drone-index",
  "version": 1,
  "level": "pm",
- "publishedAt": "2026-11-20T03:52:24.673Z",
+ "publishedAt": "2026-11-20T03:57:24.696Z",
  "by": "Sentry desktop",
  "projects": [
   {
@@ -29,10 +29,10 @@
    "id": "d35e4443-6ea6-4b82-85bf-e2f1998f92e4",
    "name": "Northville Downs",
    "code": "PJ2402-0308",
-   "updated": "2026-11-20T03:49:33.344Z",
+   "updated": "2026-11-20T03:52:42.419Z",
    "field": "off",
    "removeAt": "",
-   "hash": "376a44d4b16e86d9b1c016887f94a0530f95f07ee01edb48bf5ec559ebc3737e",
+   "hash": "5f3263821927e526687851b586cefae77c5a7e36ea62b24d0ba80f7094528ee0",
    "file": "projects/d35e4443-6ea6-4b82-85bf-e2f1998f92e4.json"
   },
   {
@@ -64,16 +64,6 @@
    "removeAt": "",
    "hash": "79da5b7e31b9e0503aa5a264ae2732ef13a226badf9585abf06e64dfe1a078e6",
    "file": "projects/f01df92b-9982-43e3-b5be-48019ef691a5.json"
-  },
-  {
-   "id": "947d29f6-890c-48ab-87fd-a597f227a0f2",
-   "name": "One Hundred West (from MILASNO-WD04)",
-   "code": "OHW",
-   "updated": "2026-11-19T16:53:09.133Z",
-   "field": "off",
-   "removeAt": "",
-   "hash": "dea049d196bbdcbfd30dcfd32cb3d3485f96fca7b35a56f9ad8681b180dcddca",
-   "file": "projects/947d29f6-890c-48ab-87fd-a597f227a0f2.json"
   }
  ],
  "drawings": [
@@ -110,7 +100,6 @@
   "308b9277ea1bf3176830.svg",
   "312aa59727672b9b0f9f.svg",
   "320bb81008ec21e0cd8c.svg",
-  "3280102d84c4b6f3f6e9.svg",
   "3287b6f2085e20f19047.svg",
   "33155f570078403f98e2.svg",
   "33b0e9ac3d1073c268ab.svg",
@@ -151,6 +140,7 @@
   "5c381f0b123550b95ca1.svg",
   "601c161a6a7e940b0a17.svg",
   "60498a100a82dd74037c.svg",
+  "61386731ad552ea949a2.svg",
   "61eac99f927cbdcf423c.svg",
   "62819fb5d857970aa535.svg",
   "637cef4f0b7df27e552a.svg",
