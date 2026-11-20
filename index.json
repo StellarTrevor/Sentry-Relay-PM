@@ -2,7 +2,7 @@
  "format": "sentry-drone-index",
  "version": 1,
  "level": "pm",
- "publishedAt": "2026-11-20T17:45:31.860Z",
+ "publishedAt": "2026-11-20T17:59:45.672Z",
  "by": "Sentry desktop",
  "projects": [
   {
@@ -12,7 +12,7 @@
    "updated": "2026-11-17T16:16:36.822Z",
    "field": "off",
    "removeAt": "",
-   "hash": "04c685885cae305b66767a0a3cd0a10cbe59abfa6562d58a0462f143ffe5f427",
+   "hash": "5333cb22d942087845ea397ef8c7a7beb5d6cf533f6bed567102739d9b3ae7fe",
    "file": "projects/7db1ce7f-2521-4a25-bee7-a70268635fc4.json"
   },
   {
@@ -22,7 +22,7 @@
    "updated": "2026-11-20T03:48:22.198Z",
    "field": "off",
    "removeAt": "",
-   "hash": "f74e16d71404f01771c01e0d431a65b30c54c130c34776e1b0a8a4dc65f00213",
+   "hash": "88267e96412f97690b0ba7cb7bda6ea41f12f732d630d8927859181ff2eb3b04",
    "file": "projects/6640d05f-e8f5-4839-90fc-6cb7d10fbaf0.json"
   },
   {
@@ -32,7 +32,7 @@
    "updated": "2026-11-20T15:46:00.519Z",
    "field": "off",
    "removeAt": "",
-   "hash": "c6ce58d7a46d071f418b09a8e757de55d9f248015d384374a85d430a4669a2aa",
+   "hash": "e379b27ab9760e968e08f22c644a43ee0025e46a9654e1b5647b34504e832445",
    "file": "projects/d35e4443-6ea6-4b82-85bf-e2f1998f92e4.json"
   },
   {
@@ -42,7 +42,7 @@
    "updated": "2026-11-05T19:12:44.389Z",
    "field": "off",
    "removeAt": "",
-   "hash": "33b05d3b4a395b5170e487442d3d129aacc2c7abe1b2eb6eda2e9f8c1e2bd448",
+   "hash": "6456000e88c212619c530ee9a151a6e364e2da388a0c558eb6a3113220310279",
    "file": "projects/3dd217e7-fb66-4955-a671-f502f7db9509.json"
   },
   {
@@ -52,7 +52,7 @@
    "updated": "2026-11-13T16:39:19.161Z",
    "field": "off",
    "removeAt": "",
-   "hash": "db9d7fd4c95264eab5dba3236ca67afba2c857553ba80d8aed5e45f2944c28a8",
+   "hash": "3395f6e95d51f8ed20e97c48f26be8e5c06ce19896193b0f73842a16e007cadb",
    "file": "projects/991bd960-7511-4513-b35a-7e619b207bc7.json"
   },
   {
@@ -62,7 +62,7 @@
    "updated": "2026-11-20T17:36:17.584Z",
    "field": "off",
    "removeAt": "",
-   "hash": "3aa9faa19d13d985a56fbdc911e9c3ec52a19569c56ce253dd5044e138de9fe4",
+   "hash": "55a445ae6f15f62e12535369fe2cd322e36c08878013acf409b92c295804462e",
    "file": "projects/f01df92b-9982-43e3-b5be-48019ef691a5.json"
   }
  ],
